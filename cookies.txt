@@ -1,5 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-www.badaramdwara.org	TRUE	/	FALSE	1999999999	PHPSESSID	0ul8pv5644egmmm0kulv8d71m3
-.up-00.com	TRUE	/	FALSE	1999999999	__cfduid	d4dfcfe8e1e7041d8cb9f03094995e2591490812346
-
